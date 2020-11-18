@@ -23,8 +23,23 @@ using Bmes.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Zander\Desktop\Fall\Bmes\Bmes\Views\_ViewImports.cshtml"
+using Bmes.ViewModels;
+
+#line default
+#line hidden
+#line 4 "C:\Users\Zander\Desktop\Fall\Bmes\Bmes\Views\_ViewImports.cshtml"
+using Bmes.ViewModels.Catalogue;
+
+#line default
+#line hidden
+#line 5 "C:\Users\Zander\Desktop\Fall\Bmes\Bmes\Views\_ViewImports.cshtml"
+using Bmes.Models.Products;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"750198cda679fba5409cfc5383106da729371c05", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fde50f815c04e9a0b6dfb61088fca7bc9a90b791", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
